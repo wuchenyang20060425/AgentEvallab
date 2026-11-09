@@ -26,3 +26,4 @@ venv/
 # Editor files
 .idea/
 .vscode/
+reports/
